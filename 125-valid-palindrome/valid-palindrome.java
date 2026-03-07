@@ -19,7 +19,7 @@ class Solution {
         
        
     //    return true;
-    int left = 0;
+        int left = 0;
         int right = s.length() - 1;
 
         while (left < right) {
